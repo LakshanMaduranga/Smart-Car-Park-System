@@ -7,7 +7,7 @@
 #define FIREBASE_HOST "car-parking-afb69-default-rtdb.asia-southeast1.firebasedatabase.app"       // Firebase HOST
 #define FIREBASE_AUTH "w17FW9aVjXoYXNOKVEKSoQQ17zopeZVfhUPhHqnR"  // Firebase AUTH code
 //#define WIFI_SSID "Maduranga"                                 // Enter your WIFI Name
-//#define WIFI_PASSWORD "azd5237x"   
+//#define WIFI_PASSWORD "password"   
 #define WIFI_SSID "POCO F3"                                 // Enter your WIFI Name
 #define WIFI_PASSWORD "12345678"
 //#define WIFI_SSID "Dialog 4G 995"                                 // Enter your WIFI Name
